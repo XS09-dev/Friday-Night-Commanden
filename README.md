@@ -11,8 +11,8 @@ Windows SDK (10.0.17763.0)
 ```
 After that you have to open these .cmd files in the order given.
 ```
-- HaxeFlixel.cmd
-- flixet_shit.cmd
-- git_shit.cmd
+HaxeFlixel.cmd
+flixet_shit.cmd
+git_shit.cmd
 ```
 After doing that you can compile the normal source and psych. I will eventually add a file for kade titled kade.cmd. Which installs all the kade shit.
