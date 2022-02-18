@@ -15,4 +15,4 @@ HaxeFlixel.cmd
 flixet_shit.cmd
 git_shit.cmd
 ```
-After doing that you can compile the normal source and psych. I will eventually add a file for kade titled kade.cmd. Which installs all the kade shit.
+After doing that you can compile the normal source and psych than restart your pc.
